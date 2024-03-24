@@ -1,1 +1,7 @@
 # AllOfJava
+
+## Object Oriented Programming 1
+This project involved focusing on object-oriented programming (OOP) using Java and Gradle. In the OOP assignment, I implemented classes representing elements of a solar system, handling concepts like immutability, error handling, and encapsulation. Skills acquired include understanding OOP principles, error handling techniques, and implementing class hierarchies. The OOD assignment required creating class, object, and sequence diagrams to model a system before implementation, enhancing skills in designing robust and scalable software solutions. Overall, these assignments developed my proficiency in Java programming, OOP/OOD principles, and design documentation.
+
+## Object Oriented Programming 2
+This project involved developing a command-line application to manage solar systems, including stars, planets, and moons. I implemented features such as creating new solar systems with hierarchical structures, listing all solar systems, detailed viewing, deletion, addition of planets and moons, and ordering information by size or orbital radius. Skills acquired include file loading/saving, hierarchical data management, error handling, and command-line interface design. Additionally, I created class diagrams to visualize the application structure and relations between classes. Overall, this project enhanced my proficiency in Java programming, object-oriented design, and file handling techniques.
